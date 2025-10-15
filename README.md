@@ -1,8 +1,4 @@
-Here’s a clean and professional **`README.md`** written in Markdown for your GitHub repo — including your Ethereum address, technical overview, usage guide, and instructions for calling the no-input functions 👇
 
----
-
-````markdown
 # 🛡️ ZKP-Based NFT (Zero-Input Solidity Contract)
 
 A minimal **Zero-Knowledge Proof (ZKP) verified NFT smart contract** built entirely in **Solidity**, featuring:
